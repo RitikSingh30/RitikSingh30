@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritik Singh
-- 👀 I’m interested in Competative Programming , Web Development 
-- 🌱 I’m currently learning Web Development
+- 👀 Specialist at codeforces (1514)
+- 🌱 MERN Stack Developer
 - 📫 How to reach me instagram - |x_ritik_singh_x|
 
 <!---
