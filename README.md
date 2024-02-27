@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritik Singh
-- 👀 Specialist at codeforces (1514)
+- 👀 Specialist at codeforces (1512)
 - 🌱 MERN Stack Developer
 - 📫 How to reach me instagram - |x_ritik_singh_x|
 
